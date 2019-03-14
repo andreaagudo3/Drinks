@@ -1,0 +1,32 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - Nuke (7.5.2)
+  - Nuke-FLAnimatedImage-Plugin (6.0):
+    - FLAnimatedImage (~> 1.0)
+    - Nuke (~> 7.5)
+  - SwiftLint (0.30.1)
+  - SwiftyGif (4.2.0)
+
+DEPENDENCIES:
+  - Nuke-FLAnimatedImage-Plugin
+  - SwiftLint
+  - SwiftyGif
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FLAnimatedImage
+    - Nuke
+    - Nuke-FLAnimatedImage-Plugin
+    - SwiftLint
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  Nuke-FLAnimatedImage-Plugin: e4c39d13061a08ac0bdcb0cd7a23882f4a43f4a6
+  SwiftLint: a54bf1fe12b55c68560eb2a7689dfc81458508f7
+  SwiftyGif: a149bf84df23370592f3f075561ae02c8632a314
+
+PODFILE CHECKSUM: ca914812acc29fe69f42cd525d60b966640e8ce9
+
+COCOAPODS: 1.5.3

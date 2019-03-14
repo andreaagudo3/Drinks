@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Drinks
+
+  Created by Andrea Agudo on 12/03/2019.
+  Copyright © 2019 aagudo. All rights reserved.
+*/
+
+// Errors
+"default_error.title" = "Oops!";
+"default_error.message" = "Something went wrong, please try again.";
+
+// Ingredients
+"ingredients" = "Ingredients";
+
+// Drinks
+"drinks_with" = "Drinks with ";
+
